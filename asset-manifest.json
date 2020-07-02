@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-website/static/css/main.c4482a81.chunk.css",
-    "main.js": "/react-website/static/js/main.048b1c46.chunk.js",
-    "main.js.map": "/react-website/static/js/main.048b1c46.chunk.js.map",
-    "runtime-main.js": "/react-website/static/js/runtime-main.3b5f61aa.js",
-    "runtime-main.js.map": "/react-website/static/js/runtime-main.3b5f61aa.js.map",
-    "static/js/2.920ad844.chunk.js": "/react-website/static/js/2.920ad844.chunk.js",
-    "static/js/2.920ad844.chunk.js.map": "/react-website/static/js/2.920ad844.chunk.js.map",
-    "index.html": "/react-website/index.html",
-    "precache-manifest.35287a46a9286844c8a77bb9bf0dcc13.js": "/react-website/precache-manifest.35287a46a9286844c8a77bb9bf0dcc13.js",
-    "service-worker.js": "/react-website/service-worker.js",
-    "static/css/main.c4482a81.chunk.css.map": "/react-website/static/css/main.c4482a81.chunk.css.map",
-    "static/js/2.920ad844.chunk.js.LICENSE.txt": "/react-website/static/js/2.920ad844.chunk.js.LICENSE.txt",
-    "static/media/Projects.css": "/react-website/static/media/Balto-Medium.930f1359.ttf",
-    "static/media/Contact.css": "/react-website/static/media/HarrietDisplay-Black.7a3a4b15.ttf"
+    "main.css": "/static/css/main.b0d198be.chunk.css",
+    "main.js": "/static/js/main.b9765faa.chunk.js",
+    "main.js.map": "/static/js/main.b9765faa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8e53c1da.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8e53c1da.js.map",
+    "static/js/2.920ad844.chunk.js": "/static/js/2.920ad844.chunk.js",
+    "static/js/2.920ad844.chunk.js.map": "/static/js/2.920ad844.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ccffcd81bc9dcbcb998f9ac68ff064b8.js": "/precache-manifest.ccffcd81bc9dcbcb998f9ac68ff064b8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b0d198be.chunk.css.map": "/static/css/main.b0d198be.chunk.css.map",
+    "static/js/2.920ad844.chunk.js.LICENSE.txt": "/static/js/2.920ad844.chunk.js.LICENSE.txt",
+    "static/media/Projects.css": "/static/media/Balto-Medium.930f1359.ttf",
+    "static/media/Contact.css": "/static/media/HarrietDisplay-Black.7a3a4b15.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b5f61aa.js",
+    "static/js/runtime-main.8e53c1da.js",
     "static/js/2.920ad844.chunk.js",
-    "static/css/main.c4482a81.chunk.css",
-    "static/js/main.048b1c46.chunk.js"
+    "static/css/main.b0d198be.chunk.css",
+    "static/js/main.b9765faa.chunk.js"
   ]
 }
