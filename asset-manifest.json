@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.e179d725.chunk.css",
+    "main.css": "/static/css/main.ebf4590f.chunk.css",
     "main.js": "/static/js/main.dc3babd4.chunk.js",
     "main.js.map": "/static/js/main.dc3babd4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8e53c1da.js",
@@ -8,9 +8,9 @@
     "static/js/2.2ce9387c.chunk.js": "/static/js/2.2ce9387c.chunk.js",
     "static/js/2.2ce9387c.chunk.js.map": "/static/js/2.2ce9387c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.477612b00f3c149e79f3f2a9fe83cbe6.js": "/precache-manifest.477612b00f3c149e79f3f2a9fe83cbe6.js",
+    "precache-manifest.7968eada9dd7d0ab1e5af90510a906b8.js": "/precache-manifest.7968eada9dd7d0ab1e5af90510a906b8.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.e179d725.chunk.css.map": "/static/css/main.e179d725.chunk.css.map",
+    "static/css/main.ebf4590f.chunk.css.map": "/static/css/main.ebf4590f.chunk.css.map",
     "static/js/2.2ce9387c.chunk.js.LICENSE.txt": "/static/js/2.2ce9387c.chunk.js.LICENSE.txt",
     "static/media/Projects.css": "/static/media/Balto-Medium.930f1359.ttf",
     "static/media/Contact.css": "/static/media/HarrietDisplay-Black.7a3a4b15.ttf"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.8e53c1da.js",
     "static/js/2.2ce9387c.chunk.js",
-    "static/css/main.e179d725.chunk.css",
+    "static/css/main.ebf4590f.chunk.css",
     "static/js/main.dc3babd4.chunk.js"
   ]
 }
